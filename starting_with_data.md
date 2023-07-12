@@ -55,10 +55,3 @@ Answer:
 > The idea was to check the revenue during December, Festive time, 
 > but the database has no values for this time. May considered as an example
 
-
-
-Question 5: 
-
-SQL Queries:
-
-Answer:
